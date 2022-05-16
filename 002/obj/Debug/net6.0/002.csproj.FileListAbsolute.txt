@@ -1,0 +1,15 @@
+D:\geek brains\C#\seminar_8\002\bin\Debug\net6.0\002.exe
+D:\geek brains\C#\seminar_8\002\bin\Debug\net6.0\002.deps.json
+D:\geek brains\C#\seminar_8\002\bin\Debug\net6.0\002.runtimeconfig.json
+D:\geek brains\C#\seminar_8\002\bin\Debug\net6.0\002.dll
+D:\geek brains\C#\seminar_8\002\bin\Debug\net6.0\002.pdb
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.csproj.AssemblyReference.cache
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.GeneratedMSBuildEditorConfig.editorconfig
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.AssemblyInfoInputs.cache
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.AssemblyInfo.cs
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.csproj.CoreCompileInputs.cache
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.dll
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\refint\002.dll
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.pdb
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\002.genruntimeconfig.cache
+D:\geek brains\C#\seminar_8\002\obj\Debug\net6.0\ref\002.dll
